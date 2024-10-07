@@ -21,4 +21,4 @@
 * **`effect_sizes.xlsx`** contains the effect sizes calculated for both the original paper and the replication study. The effect sizes were manually extracted from the Rcode and compiled into an Excel document.
 * **`gpsdata.csv`** contains the gps data of the nestboxes. 
 * **`Rcode.pdf`** and **`Rcode.Rmd`** contain the R code used for the analyses.
-* **`PRIMER_analysis`** contain the PRIMER workspace where the PERMANOVA analyses were conducted.
+* **`PRIMER_analysis`** contains the PRIMER workspace where the PERMANOVA analyses were conducted.
