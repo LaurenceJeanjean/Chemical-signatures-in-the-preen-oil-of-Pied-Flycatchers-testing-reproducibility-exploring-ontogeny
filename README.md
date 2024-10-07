@@ -5,15 +5,11 @@
 
 ***
 
-1 Department of Behavioural Ecology, Bielefeld University, Bielefeld, Germany
-
-2 JICE, Joint Institute for Individualisation in a Changing Environment, University of Münster and Bielefeld University, Germany
-
-3 Evolutionary Biology, Bielefeld University, Bielefeld, Germany
-
-✝ Shared senior authorship
-
-*Corresponding authors: Laurence Jeanjean, laurence.jeanjean.jj@gmail.com; Marc Gilles, marc.gilles@live.fr
+###### 1 Department of Behavioural Ecology, Bielefeld University, Bielefeld, Germany
+###### 2 JICE, Joint Institute for Individualisation in a Changing Environment, University of Münster and Bielefeld University, Germany
+###### 3 Evolutionary Biology, Bielefeld University, Bielefeld, Germany
+###### ✝ Shared senior authorship
+###### *Corresponding authors: Laurence Jeanjean, laurence.jeanjean.jj@gmail.com; Marc Gilles, marc.gilles@live.fr
 
 ***
 
